@@ -66,7 +66,7 @@ O   |
 =========''']
 
 
-# Classe
+# Class
 class Hangman:
 
 
